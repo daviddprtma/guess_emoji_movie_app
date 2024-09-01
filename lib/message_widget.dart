@@ -29,7 +29,7 @@ class MessageWidget extends StatelessWidget {
             margin: const EdgeInsets.only(bottom: 8),
             child: Text(
               text,
-              style: TextStyle(color: isFromUser ? Colors.white : null),
+              style: TextStyle(color: isFromUser ? Colors.white : Colors.black),
             ),
           ),
         ),

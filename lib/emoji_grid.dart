@@ -72,7 +72,8 @@ class _EmojiTileState extends State<EmojiTile> {
             color: Colors.redAccent,
             icon: Icon(
               FontAwesomeIcons.copy,
-              color: isHovered ? Colors.white : IconTheme.of(context).color,
+              // ignore: dead_code
+              color: isHovered ? Colors.redAccent : IconTheme.of(context).color,
               size: 15,
             ),
             onPressed: () async {

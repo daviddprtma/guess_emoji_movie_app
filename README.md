@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img src="" alt="Random Image" width="400px">
+<img src="https://github.com/daviddprtma/guess_emoji_movie_app/blob/main/assets/images/movie.jpeg" alt="Random Image" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -59,4 +59,5 @@ flutter run
 
 ### Video Demo Presentation
 Here's the link video for the video demo presentation: 
+<br>
 (Web Version) https://youtu.be/yMV_3vGLsnk

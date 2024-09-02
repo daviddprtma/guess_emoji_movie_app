@@ -5,7 +5,10 @@
 
 <p align="center">The mini game app built from GeminiAI + Flutter that provides a string of emojis that represent the title of a movie, and you try to guess the name of the movie based on those emojis.</p>
 
-
+<h2 id="choose_me">✅ Why Choose Guess Emoji Movie App?</h2>
+<p align="center">
+  Guess Emoji App is the simple app game who built across any devices. It is supported in anything either you're using Mobile or Website. All of them are supported and can be played with AI which name is Gemini AI in anywhere and anything that you want to play. Just guess the emoji, get level-up, and see if you can beat the AI till the end. Because we as a human we should be smart than AI right?? Hahahaha just kidding stackies😂😂. Anyway happy gaming🙏
+</p>
 
 <h2 id="layout">🎨 Layout</h2>
 
@@ -60,4 +63,10 @@ flutter run
 ### Video Demo Presentation
 Here's the link video for the video demo presentation: 
 <br>
-(Web Version) https://youtu.be/yMV_3vGLsnk
+(Web Version)
+<br>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yMV_3vGLsnk/0.jpg)](https://www.youtube.com/watch?v=yMV_3vGLsnk)
+
+<br>
+(Android Version)
+<br>

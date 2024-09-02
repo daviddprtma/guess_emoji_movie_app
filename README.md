@@ -16,7 +16,7 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- Gemini AI 1.5 Flash 
+- Gemini 1.5 Pro
 - Flutter
 
 <h2 id="started">🚀 Getting started</h2>

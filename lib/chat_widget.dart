@@ -24,7 +24,7 @@ class _ChatWidgetState extends State<ChatWidget> {
   void initState() {
     super.initState();
     _model = GenerativeModel(
-      model: 'gemini-1.5-flash',
+      model: 'gemini-1.5-pro',
       apiKey: apiKey,
     );
 
@@ -59,7 +59,7 @@ class _ChatWidgetState extends State<ChatWidget> {
               );
             },
             itemCount: _chat.history.length,
-          ),
+          ),          
           Padding(
             padding: const EdgeInsets.symmetric(
               vertical: 25,

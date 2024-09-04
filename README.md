@@ -65,8 +65,11 @@ Here's the link video for the video demo presentation:
 <br>
 (Web Version)
 <br>
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yMV_3vGLsnk/0.jpg)](https://www.youtube.com/watch?v=yMV_3vGLsnk)
 
 <br>
 (Android Version)
 <br>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j2-GTGuXK2o/0.jpg)](https://www.youtube.com/watch?v=j2-GTGuXK2o)

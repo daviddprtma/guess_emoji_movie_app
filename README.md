@@ -3,7 +3,7 @@
 <h1 align="center" style="font-weight: bold;">Guess Emoji Movie App </h1>
 
 
-<p align="center">The mini game app built from GeminiAI + Flutter that provides a string of emojis that represent the title of a movie, and you try to guess the name of the movie based on those emojis.</p>
+<p align="center">The mini game app built from Gemini Pro 1.5 + Flutter that provides a string of emojis that represent the title of a movie, and you try to guess the name of the movie based on those emojis.</p>
 
 <h2 id="choose_me">✅ Why Choose Guess Emoji Movie App?</h2>
 <p>

@@ -7,7 +7,7 @@
 
 <h2 id="choose_me">✅ Why Choose Guess Emoji Movie App?</h2>
 <p>
-Guess Emoji App is the simple app game who built across any devices. It is supported with anything either you're using Mobile or Website. All of them are supported and can be played with AI which name is Gemini AI in anywhere and anything that you want to play. Just guess the emoji, get level-up, and see if you can beat the AI till the end. Because we as a human we should be smart than AI right?? Hahahaha just kidding stackies😂😂. Anyway happy gaming🙏
+Guess Emoji App is the simple app game who built across any devices. It is supported with anything either you're using Mobile or Website. All of them are supported and can be played with AI which name is Gemini AI in anywhere and anything that you want to play. Just guess the emoji, get level-up, and see if you can beat the AI till the end. Because we as a human we should be smart than AI right?? Hahahaha just kidding stackies😂😂. Anyway happy gaming stackie🙏
 </p>
 
 <h2 id="layout">🎨 Layout</h2>

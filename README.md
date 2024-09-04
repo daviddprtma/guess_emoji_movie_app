@@ -35,7 +35,7 @@ You should be download & install some requirements for this project to make it w
 
 <h3>Cloning</h3>
 
-Here's how to clone the project: 
+Clone the project in your terminal
 ```bash
 git clone https://github.com/daviddprtma/guess_emoji_movie_app.git
 ```
@@ -54,7 +54,7 @@ After clean the cache, put your API key from Google AI Studio to the const.dart
 const apiKey = "YOUR_API_KEY";
 ```
 
-And finally run the project by type it like this
+And finally run the project
 
 ```bash
 flutter run

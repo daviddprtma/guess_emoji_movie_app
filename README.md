@@ -1,9 +1,11 @@
-
-
-<h1 align="center" style="font-weight: bold;">Guess Emoji Movie App </h1>
+<h1 align="center" style="font-weight: bold;">Winner Top #4 Best StackUp Hackacthon Challenge - Guess Emoji Movie App </h1>
 
 
 <p align="center">The mini game app built from Gemini Pro 1.5 + Flutter that provides a string of emojis that represent the title of a movie, and you try to guess the name of the movie based on those emojis.</p>
+
+<p align="center">If you want to see the list of the winners, you can check it out the announcements in here: https://earn.stackup.dev/learn/pathways/2024-monthly-hackathon-coding-challenges/skills/september-2024-monthly-coding-challenge/modules/september-2024-monthly-coding-challenges-showcase/tutorials/monthly-hackathon-2024-september-2024-coding-challenge-showcase </p> P.S: (You must login first to see the list of the winners of september hackathon challenge).✅
+
+<br>
 
 <h2 id="choose_me">✅ Why Guess Emoji Movie App?</h2>
 <p>
